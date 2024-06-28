@@ -1,5 +1,9 @@
-# Hello there! 👋
+![Metrics](/github-metrics.svg)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
